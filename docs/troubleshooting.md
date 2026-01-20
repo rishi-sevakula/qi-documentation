@@ -1,6 +1,7 @@
 ---
 title: Troubleshooting
 description: Common issues and fixes.
+id: troubleshooting
 ---
 
 ## Domain config modal keeps appearing
