@@ -3,7 +3,7 @@ backend:
   repo: rishi-sevakula/qi-documentation
   branch: main
   base_url: https://qi-documentation.vercel.app
-  auth_endpoint: /api/auth
+  auth_endpoint: https://auth.decapcms.org/auth
 
 media_folder: static/img
 public_folder: /img
