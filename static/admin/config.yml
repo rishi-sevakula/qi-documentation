@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/rishi-sevakula/qi-documentation/tree/main/docs
+  repo: rishi-sevakula/qi-documentation
   branch: main
   base_url: https://qi-documentation.vercel.app
   auth_endpoint: /api/auth
