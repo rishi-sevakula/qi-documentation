@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gep',
-  projectName: 'leo.agentic.runtime',
+  organizationName: 'rishi-sevakula',
+  projectName: 'qi-documentation',
 
   onBrokenLinks: 'throw',
 
